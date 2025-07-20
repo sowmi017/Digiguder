@@ -1,0 +1,254 @@
+{
+  "footer": {
+    "description": "We use this platform to build digital and financial literacy among women and self-help groups. The WhatsApp community helps with peer learning, instant support, and real-time updates.",
+    "contact_us": "Contact Us",
+    "email": "Email",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp",
+    "join_now": "Join Now",
+    "rights": "All rights reserved."
+  },
+  "navbar": {
+    "home": "Home",
+    "about_us": "About Us",
+    "basic_banking": "Basics of Banking",
+    "digital_banking": "Digital Banking",
+    "savings_safety": "Savings Safety",
+    "schemes_links": "Schemes & Links"
+  },
+  
+ "about": {
+  "title": "About Us: Welcome to Jnanadeepa",
+  "vision_heading": "Our Vision",
+  "vision_text": "At Jnanadeepa, our vision is to empower women by making digital and financial knowledge accessible, understandable, and relevant to their daily lives. We believe that every woman deserves the tools and confidence to manage her money, use digital services, and access opportunities independently.",
+  "mission_heading": "Our Mission",
+  "mission_text": "Our mission is to simplify digital learning and financial literacy so that it becomes practical, relatable, and easy to implement. We provide step-by-step guidance, hands-on workshops, and multilingual content tailored to the needs of SHG women across regions.",
+  "why_heading": "Why Jnanadeepa?",
+  "why_text": "What sets Jnanadeepa apart is our women-first design — built for SHG members, by listening to them directly. We prioritize local language, cultural relevance, and ease of use, ensuring every woman feels confident, connected, and capable."
+},
+"home": {
+  "title": "Welcome to",
+  "subtitle": "Empowering Women Through Digital & Financial Literacy",
+  "what_heading": "💡 What is Jnanadeepa?",
+  "what_text": "Jnanadeepa is a digital initiative to uplift women, especially those in SHGs (Self-Help Groups), by providing them with digital tools, knowledge, and financial guidance. It brings together mobile learning, peer support, and community empowerment to bridge the digital divide.",
+  "why_heading": "🌟 Why Do We Use Jnanadeepa?",
+  "why_text": "Many women in rural and underserved areas lack the confidence or guidance to use digital tools for banking, saving, or communication. Jnanadeepa fills this gap through simple tutorials, visual content, and friendly training — all in their own language.",
+  "why_list": [
+    "✔️ Simple, regional-language guides",
+    "✔️ Real-time peer support through WhatsApp",
+    "✔️ Training on banking, saving, and payments",
+    "✔️ Awareness about online safety and apps"
+  ],
+
+    "how_heading": "🚀 How Jnanadeepa Helps Women",
+    "features": [
+  {
+    "title": "📱 Digital Literacy",
+    "description": "We train women to use smartphones, messaging apps, camera, and essential services like WhatsApp...",
+    "image": "/dl.png"
+
+  },
+  {
+    "title": "💰 Financial Awareness",
+    "description": "We introduce UPI, digital wallets, savings, and banking apps — enabling secure and independent financial handling.",
+    "image": "/fa.png"
+
+  },
+  {
+    "title": "📢 Community Learning",
+    "description": "We use WhatsApp groups and local language audio guides for shared, accessible learning across SHG networks.",
+    "image": "/cc.png"
+
+  }
+]
+
+  },
+  "guide": {
+    "title": "📲 Digital Banking",
+    "subtitle": "A simple guide to using digital banking apps",
+    "tagline": "Learn how to safely send money, check balance, and more!",
+    "sections": {
+      "send_money": {
+        "title": "💸 How to Send Money Using UPI",
+        "steps": [
+          "Download PhonePe, Google Pay, or Paytm.",
+          "Open the app and register your mobile number.",
+          "Select your bank — the app links your account.",
+          "Set UPI PIN — enter debit card details and use OTP.",
+          "On home screen, select “Send Money”.",
+          "Enter mobile number or UPI ID.",
+          "Enter amount.",
+          "Enter PIN and send money.",
+          "If success message comes, money is sent."
+        ]
+      },
+      "generate_upi": {
+        "title": "🔐 How to Generate UPI PIN",
+        "steps": [
+          "Open any UPI app like Google Pay or PhonePe.",
+          "Link your bank account.",
+          "Tap “Set UPI PIN”.",
+          "Enter last 6 digits of your debit card and expiry date.",
+          "Enter OTP received via SMS.",
+          "Set your 4 or 6-digit PIN and confirm."
+        ]
+      },
+      "check_balance": {
+        "title": "💰 How to Check Bank Balance",
+        "steps": [
+          "On UPI app, select “Check Balance”.",
+          "Enter your UPI PIN — your balance will show.",
+          "On SMS: Send message to your bank’s service number."
+        ]
+      },
+      "check_passbook": {
+        "title": "📘 How to Check Passbook",
+        "steps": [
+          "Visit your bank branch.",
+          "Use passbook printing machine or ask the staff.",
+          "Your latest transactions will be printed."
+        ]
+      },
+      "withdraw_atm": {
+        "title": "🏧 How to Withdraw Money from ATM",
+        "steps": [
+          "Insert your ATM/debit card.",
+          "Enter 4-digit PIN.",
+          "Choose “Withdraw” option.",
+          "Enter amount you want to withdraw.",
+          "Collect your cash and take your card."
+        ]
+      },
+      "net_banking": {
+        "title": "🌐 How to Use Net Banking to Deposit or Transfer Money",
+        "steps": [
+          "Open your bank’s official website.",
+          "Log in with your User ID and Password.",
+          "OTP is used for secure transactions.",
+          "Always log out after finishing your session."
+        ],
+        "substeps": [
+          "✅ Check account balance",
+          "✅ Transfer money (NEFT/IMPS/RTGS)",
+          "✅ View transactions and e-statements",
+          "✅ Recharge, bill payment"
+        ]
+      }
+    }
+  },
+  "bank_guide": {
+  "title": "💳 Digital Banking Made Easy",
+  "subtitle": "Empowering You Through Simple Banking Steps",
+  "tagline": "Why do you need a bank account? It helps you save money, keep it safe, receive wages or benefits, and access government schemes and credit.",
+  "select_state": "Select Your State",
+  "open_account_title": "📄 How to Open a Bank Account (Step-by-Step)",
+  "open_account_steps": [
+    "Choose a nearby or preferred bank branch.",
+    "Ask for the account opening form.",
+    "Fill in all personal details carefully.",
+    "Submit Aadhaar, Voter ID, or valid address proof.",
+    "Provide a passport-size photograph.",
+    "Deposit minimum balance (₹500 or as required).",
+    "Collect your passbook and account number."
+  ],
+  "account_types_title": "🏦 Types of Bank Accounts in India",
+  "account_types_list": [
+    "<strong>Savings Account</strong> – Ideal for regular saving & interest.",
+    "<strong>Current Account</strong> – Best for businesses & high transactions.",
+    "<strong>Fixed Deposit (FD)</strong> – Deposit for a fixed period with higher interest.",
+    "<strong>Recurring Deposit (RD)</strong> – Monthly savings with fixed tenure."
+  ],
+  "kyc_title": "🧾 What is KYC (Know Your Customer)?",
+  "kyc_steps": [
+    "KYC ensures your identity and address are verified by the bank.",
+    "Mandatory for all new accounts, loans, and financial services.",
+    "Documents: Aadhaar card, Passport, Voter ID, or Driving License.",
+    "Helps prevent fraud, illegal activity, and ensures transparency."
+  ],
+  "locate_title": "📍 Locate Banks Near You (by State)",
+  "locate_description": "Select your state to get official bank website links:"
+},
+  "savings": {
+    "title": "📊 Schemes and Savings Network",
+    "subtitle": "Know your options, protect your money",
+    "tagline": "Empowering SHG members with financial awareness",
+    "sections": {
+      "shramashakti": {
+        "title": "💸 Karnataka Shrama Shakthi Scheme",
+        "items": [
+          "Purpose: Support minority women in self-employment.",
+          "Eligibility: Minority community women (Muslim, Christian, etc.), Age 18–55 years, Annual family income: ₹3.5 lakh, No government job, No KMDC loan in last 5 years",
+          "Loan: ₹50,000 (₹25,000 waived if repaid)",
+          "Interest: 4%",
+          "How to Apply: Visit KMDC Website, Apply online with Aadhaar, income proof, bank passbook"
+        ]
+      },
+      "kayaka": {
+        "title": "💸 Karnataka Kayaka Yojana",
+        "items": [
+          "Target: SHG Women Members",
+          "Loan: ₹1L–₹10L (₹5L interest-free)",
+          "Interest: 0–4% depending on amount",
+          "How to Apply: Through cooperative banks/societies"
+        ]
+      },
+      "santwana": {
+        "title": "💸 Santwana Scheme (Natural Calamity Relief)",
+        "items": [
+          "Support for minority families affected by floods, fire, etc.",
+          "Amount: Up to ₹5 lakh (50% subsidy)",
+          "Eligibility: Not availed KMDC loan in last 5 years"
+        ]
+      },
+      "svanidhi": {
+        "title": "💸 PM SVANidhi Scheme",
+        "items": [
+          "For: Street vendors",
+          "Loan: ₹10,000 (first); ₹20k & ₹50k on timely repayment",
+          "Apply: Through bank or PM SVANidhi portal"
+        ]
+      },
+      "mudra": {
+        "title": "💸 PM Mudra Yojana",
+        "items": [
+          "Purpose: For small/micro businesses",
+          "Loan Types: Shishu: Up to ₹50,000, Kishore: ₹50,000–₹5 lakh, Tarun: ₹5 lakh–₹10 lakh",
+          "Apply: Through banks, with business plan"
+        ]
+      },
+      "small_invest": {
+        "title": "📥 Small Investment Options",
+        "items": [
+          "Post Office RD: ₹100/month, 5 yrs, 6.7% p.a.",
+          "Post Office TD: 1–5 years, up to 7.5%",
+          "SCSS: Senior Citizens, ₹1k–30L, 8.2% quarterly",
+          "KVP: ₹1,000+, money doubles in 115 months",
+          "NSC: 5 yrs, 7.7% interest, 80C eligible"
+        ]
+      },
+      "safety": {
+        "title": "💰 Savings Safety Schemes",
+        "items": [
+          "PPF: 15 years, 7.1%, ₹500–₹1.5L yearly, tax-free",
+          "Sukanya Yojana: For girl child, ~8.2% interest",
+          "MIS: ₹1k–₹9L, 5 years, ~7.4% monthly interest"
+        ]
+      },
+      "tips": {
+        "title": "🔐 Financial Safety Tips",
+        "items": [
+          "Use strong passwords & avoid sharing OTPs",
+          "Do not click on suspicious links",
+          "Use only official apps for transactions",
+          "Track SMS/email alerts from bank",
+          "Keep Aadhaar linked to your number",
+          "Avoid using public WiFi for banking",
+          "Know your bank helpline numbers",
+          "Report lost cards and block them immediately"
+        ]
+      }
+    }
+  }
+
+
+}
